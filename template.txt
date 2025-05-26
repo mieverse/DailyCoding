@@ -4,20 +4,12 @@ Month-Date-Year | *[This problem was recently asked by Company X]*
 
 [Write the full problem statement here.]
 
-For example, [provide example input/output here].
-
-Bonus: [Optional bonus challenge or hint]
-
 ## Solution (Python)
 
 ```python
-def solution_function(args):
-    # Write your solution code here
-    pass
+[Write your solution code here
 
-# driver code
-input_data = [...]
-print(solution_function(input_data))  # Expected output: 
+Write your driver code here]
 	
 	
 
