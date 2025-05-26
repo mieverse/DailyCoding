@@ -4,9 +4,9 @@ Aug 15, 2024 | *This problem was asked by Google.*
 Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
 The following test should pass:
 
-node = Node('root', Node('left', Node('left.left')), Node('right'))
+`node = Node('root', Node('left', Node('left.left')), Node('right'))`
 
-assert deserialize(serialize(node)).left.left.val == 'left.left'
+`assert deserialize(serialize(node)).left.left.val == 'left.left'`
 
 ## Solution (Python)
 
