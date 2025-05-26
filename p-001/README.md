@@ -1,4 +1,4 @@
-# Problem 001
+## Problem 001
 
 ![Problem Statement](./problem.png)
 
