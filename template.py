@@ -1,17 +1,13 @@
 """
 p[NUMBER] — [TITLE] [Easy / Medium / Hard]
-Aug 13, 2024 | Asked by [Company] | Topic: [Topic]
+Asked by [Company] | Topic: [Topic]
 
 Problem:
-    [Paste problem here.]
-
-    Example:
-        [input] -> [output]
+[Paste problem here.]
 
 What I Learned:
     -
 """
-
 
 def solution():
     pass
